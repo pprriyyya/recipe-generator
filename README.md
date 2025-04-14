@@ -24,7 +24,8 @@ It uses **Python** and **Gradio** to provide a colorful and interactive experien
 ## 📂 Project Structure
 
 ## ✨ Demo
-![Demo GIF or Screenshot Placeholder]
+![image](https://github.com/user-attachments/assets/000cb619-26bb-403f-a38a-24aeae9e78fb)
+
 
 ---
 
